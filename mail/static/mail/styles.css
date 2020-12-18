@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color:lightgrey;
+}
+
+.unread {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: white;
+}
+
+p {
+    margin-bottom: 1%;
+}
